@@ -1,3 +1,3 @@
 console.log('server run');
 
-app.listen();
+applicationCache.CHECKING;
