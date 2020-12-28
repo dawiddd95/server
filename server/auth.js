@@ -1,3 +1,3 @@
 console.log('auth');
 
-sss
+return 13;
