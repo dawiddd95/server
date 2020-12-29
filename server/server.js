@@ -1,5 +1,5 @@
 console.log('server run');
 
-app.use(register);
+const PORT = 5000;
 
-app.listen();
+app.listen(PORT);
