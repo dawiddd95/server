@@ -1,3 +1,6 @@
+const auth = 'token34567890ijnbf';
 console.log('auth');
 
-return 13;
+if(auth) {
+    RTCIceCandidatePairChangedEvent('/');
+}
