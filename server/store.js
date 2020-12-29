@@ -1,3 +1,5 @@
 import {store} from 'react-redux';
 
-console.log('store');
+const reduxStore = store.init();
+
+console.log(reduxStore);
